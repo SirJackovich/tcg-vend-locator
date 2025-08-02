@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pokémon Vending Machine Locator – Utah</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      #map {
+        height: calc(100vh - 50px);
+        width: 100vw;
+      }
+    </style>
+  </head>
+  <body>
+    <header
+      style="
+        padding: 10px;
+        background: #f8f8f8;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+      "
+    >
+      Pokémon Vending Machine Locator – Utah
+    </header>
+
+    <div id="map"></div>
+    <button
+      onclick="locateMe()"
+      style="
+        position: absolute;
+        top: 60px;
+        right: 10px;
+        z-index: 999;
+        padding: 8px 12px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 6px;
+      "
+    >
+      📍 Locate Me
+    </button>
+    <p
+      style="text-align: center; font-size: 12px; color: #888; margin-top: 10px"
+    >
+      This site is not affiliated with or endorsed by Nintendo, Game Freak, or
+      The Pokémon Company. All trademarks are the property of their respective
+      owners.
+    </p>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+      const map = L.map("map").setView([40.7, -111.9], 8); // Centered on Utah
+
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: "© OpenStreetMap",
+      }).addTo(map);
+
+      const vendingLocations = [
+        {
+          name: "Smith's",
+          id: "Q00812",
+          address: "156 S Main St",
+          city: "Brigham City, UT",
+          lat: 41.5084,
+          lng: -112.0155,
+        },
+        {
+          name: "Smith's",
+          id: "Q00787",
+          address: "212 E 12300 S",
+          city: "Draper, UT",
+          lat: 40.5279,
+          lng: -111.8844,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01457",
+          address: "11969 Carlsbad Way",
+          city: "Herriman, UT",
+          lat: 40.5154,
+          lng: -112.0324,
+        },
+        {
+          name: "Smith's",
+          id: "Q00793",
+          address: "1550 E 3500 N",
+          city: "Lehi, UT",
+          lat: 40.4198,
+          lng: -111.8241,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01715",
+          address: "1341 Main St",
+          city: "Logan, UT",
+          lat: 41.7355,
+          lng: -111.8338,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01449",
+          address: "7020 S 700 W",
+          city: "Midvale, UT",
+          lat: 40.624,
+          lng: -111.914,
+        },
+        {
+          name: "Smith's",
+          id: "Q00798",
+          address: "4275 Harrison Blvd",
+          city: "Ogden, UT",
+          lat: 41.1921,
+          lng: -111.9487,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01708",
+          address: "205 W 12th St",
+          city: "Ogden, UT",
+          lat: 41.2505,
+          lng: -111.9731,
+        },
+        {
+          name: "Smith's",
+          id: "Q00783",
+          address: "632 S 100 W",
+          city: "Payson, UT",
+          lat: 40.0417,
+          lng: -111.7325,
+        },
+        {
+          name: "Smith's",
+          id: "Q00792",
+          address: "210 E 700 S",
+          city: "Pleasant Grove, UT",
+          lat: 40.3513,
+          lng: -111.7281,
+        },
+        {
+          name: "Smith's",
+          id: "Q00791",
+          address: "4065 S Redwood Rd",
+          city: "Salt Lake City, UT",
+          lat: 40.6765,
+          lng: -111.9383,
+        },
+        {
+          name: "Smith's",
+          id: "Q00794",
+          address: "876 E 800 S",
+          city: "Salt Lake City, UT",
+          lat: 40.741,
+          lng: -111.8602,
+        },
+        {
+          name: "Smith's",
+          id: "Q00781",
+          address: "2039 E 9400 S",
+          city: "Sandy, UT",
+          lat: 40.5797,
+          lng: -111.8264,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01451",
+          address: "2193 S Main St",
+          city: "South Salt Lake, UT",
+          lat: 40.7237,
+          lng: -111.8896,
+        },
+        {
+          name: "Smith's",
+          id: "Q00795",
+          address: "4080 W 9000 S",
+          city: "West Jordan, UT",
+          lat: 40.5878,
+          lng: -112.0026,
+        },
+        {
+          name: "Smith's",
+          id: "Q00784",
+          address: "4643 S 4000 W",
+          city: "West Valley City, UT",
+          lat: 40.6786,
+          lng: -112.0012,
+        },
+        {
+          name: "Smith's",
+          id: "Q00802",
+          address: "5620 W 4100 S",
+          city: "West Valley City, UT",
+          lat: 40.6827,
+          lng: -112.0333,
+        },
+        {
+          name: "WinCo Foods",
+          id: "Q01466",
+          address: "2572 S 5600 W",
+          city: "West Valley City, UT",
+          lat: 40.7165,
+          lng: -112.0342,
+        },
+      ];
+
+      // Get user's location
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+          (position) => {
+            const userLat = position.coords.latitude;
+            const userLng = position.coords.longitude;
+
+            const userMarker = L.marker([userLat, userLng], {
+              icon: L.icon({
+                iconUrl:
+                  "https://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png",
+                iconSize: [32, 32],
+                iconAnchor: [16, 32],
+              }),
+            })
+              .addTo(map)
+              .bindPopup("You are here")
+              .openPopup();
+
+            // Find the closest machine
+            let closest = null;
+            let minDistance = Infinity;
+
+            vendingLocations.forEach((loc) => {
+              const dist = getDistance(userLat, userLng, loc.lat, loc.lng);
+              if (dist < minDistance) {
+                minDistance = dist;
+                closest = loc;
+              }
+            });
+
+            if (closest) {
+              L.circle([closest.lat, closest.lng], {
+                color: "red",
+                radius: 500,
+              })
+                .addTo(map)
+                .bindPopup(
+                  `<b>Closest Machine:</b><br>${closest.name}<br>${closest.address}<br>${closest.city}`
+                )
+                .openPopup();
+
+              map.setView([closest.lat, closest.lng], 11);
+            }
+          },
+          () => {
+            alert("Location access denied. Cannot find closest machine.");
+          }
+        );
+      } else {
+        alert("Geolocation not supported by this browser.");
+      }
+
+      // Haversine distance formula
+      function getDistance(lat1, lon1, lat2, lon2) {
+        const R = 6371; // Radius of Earth in km
+        const dLat = toRad(lat2 - lat1);
+        const dLon = toRad(lon2 - lon1);
+        const a =
+          Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+          Math.cos(toRad(lat1)) *
+            Math.cos(toRad(lat2)) *
+            Math.sin(dLon / 2) *
+            Math.sin(dLon / 2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+        return R * c;
+      }
+      function toRad(deg) {
+        return (deg * Math.PI) / 180;
+      }
+
+      vendingLocations.forEach((loc) => {
+        L.marker([loc.lat, loc.lng])
+          .addTo(map)
+          .bindPopup(`<b>${loc.name}</b><br>${loc.address}<br>${loc.city}`);
+      });
+
+      function locateMe() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition((position) => {
+            const lat = position.coords.latitude;
+            const lng = position.coords.longitude;
+            map.setView([lat, lng], 12);
+          });
+        } else {
+          alert("Geolocation not supported.");
+        }
+      }
+    </script>
+  </body>
+</html>
