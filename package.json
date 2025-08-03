@@ -1,0 +1,21 @@
+{
+  "name": "tcg-vend-locator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "california.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirjackovich/tcg-vend-locator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirjackovich/tcg-vend-locator/issues"
+  },
+  "homepage": "https://github.com/sirjackovich/tcg-vend-locator#readme"
+}
