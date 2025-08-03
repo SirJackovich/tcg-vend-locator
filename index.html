@@ -58,11 +58,13 @@
 <!-- Replace or remove your old vendingMachines array -->
 
 <!-- Add this script tag BEFORE your main script uses the array -->
-<script src="california_vending_machines.js"></script>
+<script src="california.js"></script>
+<script src="utah.js"></script>
 
 <!-- Your main script that uses the array -->
 <script>
   // Example: display all machines
+  const vendingMachines = utah + california;
   vendingMachines.forEach(vm => {
     const el = document.createElement('p');
     el.textContent = `${vm.city}, ${vm.state} — ${vm.location}`;
