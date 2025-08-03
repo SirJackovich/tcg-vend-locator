@@ -1,0 +1,3017 @@
+[
+  {
+    "state": "UT",
+    "city": "Brigham City",
+    "location": "Smith's (Q00812, 156 S Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 41.5066084,
+    "lng": -112.0166046
+  },
+  {
+    "state": "UT",
+    "city": "Draper",
+    "location": "Smith's (Q00787, 212 E 12300 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.5270143,
+    "lng": -111.8718151
+  },
+  {
+    "state": "UT",
+    "city": "Herriman",
+    "location": "WinCo Foods (Q01457, 11969 Carlsbad Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.5334815,
+    "lng": -112.014137
+  },
+  {
+    "state": "UT",
+    "city": "Lehi",
+    "location": "Smith's (Q00793, 1550 E 3500 N)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.391744,
+    "lng": -111.8247675
+  },
+  {
+    "state": "UT",
+    "city": "Logan",
+    "location": "WinCo Foods (Q01715, 1341 Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.6929819,
+    "lng": -117.1378839
+  },
+  {
+    "state": "UT",
+    "city": "Midvale",
+    "location": "WinCo Foods (Q01449, 7020 S 700 W)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.6237754,
+    "lng": -111.8866764
+  },
+  {
+    "state": "UT",
+    "city": "Ogden",
+    "location": "Smith's (Q00798, 4275 Harrison Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 41.1860323,
+    "lng": -111.95002
+  },
+  {
+    "state": "UT",
+    "city": "Ogden",
+    "location": "WinCo Foods (Q01708, 205 W 12th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 41.2443705,
+    "lng": -111.9770096
+  },
+  {
+    "state": "UT",
+    "city": "Payson",
+    "location": "Smith's (Q00783, 632 S 100 W)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.0322129,
+    "lng": -111.733885
+  },
+  {
+    "state": "UT",
+    "city": "Pleasant Grove",
+    "location": "Smith's (Q00792, 210 E 700 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.3536773,
+    "lng": -111.7372018
+  },
+  {
+    "state": "UT",
+    "city": "Salt Lake City",
+    "location": "Smith's (Q00791, 4065 S Redwood Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.684087,
+    "lng": -111.9384966
+  },
+  {
+    "state": "UT",
+    "city": "Salt Lake City",
+    "location": "Smith's (Q00794, 876 E 800 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.7519419,
+    "lng": -111.9177368
+  },
+  {
+    "state": "UT",
+    "city": "Sandy",
+    "location": "Smith's (Q00781, 2039 E 9400 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.5604162,
+    "lng": -111.8764086
+  },
+  {
+    "state": "UT",
+    "city": "South Salt Lake",
+    "location": "WinCo Foods (Q01451, 2193 S Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.7242071,
+    "lng": -111.8901411
+  },
+  {
+    "state": "UT",
+    "city": "West Jordan",
+    "location": "Smith's (Q00795, 4080 W 9000 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.5786769,
+    "lng": -111.9720936
+  },
+  {
+    "state": "UT",
+    "city": "West Valley City",
+    "location": "Smith's (Q00784, 4643 S 4000 W)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.6687797,
+    "lng": -111.984861
+  },
+  {
+    "state": "UT",
+    "city": "West Valley City",
+    "location": "Smith's (Q00802, 5620 W 4100 S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.684311,
+    "lng": -112.025144
+  },
+  {
+    "state": "UT",
+    "city": "West Valley City",
+    "location": "WinCo Foods (Q01466, 2572 S 5600 W)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 40.7140995,
+    "lng": -112.0263749
+  },
+  {
+    "state": "CA",
+    "city": "Alameda",
+    "location": "Safeway (Q01036, 2227 S Shore Center)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7574333,
+    "lng": -122.2507884
+  },
+  {
+    "state": "CA",
+    "city": "Alameda",
+    "location": "Safeway (Q01268, 2600 5th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.78553,
+    "lng": -122.2805734
+  },
+  {
+    "state": "CA",
+    "city": "American Canyon",
+    "location": "Safeway (Q01528, 103 American Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.1655896,
+    "lng": -122.2520303
+  },
+  {
+    "state": "CA",
+    "city": "Anaheim",
+    "location": "Food 4 Less (Q00330, 1616 W Katella Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8032575,
+    "lng": -117.9390166
+  },
+  {
+    "state": "CA",
+    "city": "Anaheim",
+    "location": "Albertsons (Q00491, 810 S State College Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8313152,
+    "lng": -117.8886498
+  },
+  {
+    "state": "CA",
+    "city": "Anaheim",
+    "location": "Vons (Q00695, 5600 E Santa Ana Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8422781,
+    "lng": -117.8312654
+  },
+  {
+    "state": "CA",
+    "city": "Aptos",
+    "location": "Safeway (Q01333, 16 Rancho del Mar)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 36.9785814,
+    "lng": -121.9086088
+  },
+  {
+    "state": "CA",
+    "city": "Arcadia",
+    "location": "Albertsons (Q00467, 298 Live Oak Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.108323,
+    "lng": -118.0232
+  },
+  {
+    "state": "CA",
+    "city": "Arcadia",
+    "location": "Vons (Q00715, 745 W Naomi Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1250289,
+    "lng": -118.0576669
+  },
+  {
+    "state": "CA",
+    "city": "Arleta",
+    "location": "Food 4 Less (Q00319, 9635 Laurel Canyon Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2354158,
+    "lng": -118.4074072
+  },
+  {
+    "state": "CA",
+    "city": "Auburn",
+    "location": "Safeway (Q00918, 2550 Bell Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.924516,
+    "lng": -121.077009
+  },
+  {
+    "state": "CA",
+    "city": "Baldwin Park",
+    "location": "Food 4 Less (Q00573, 3000 Baldwin Park Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.068815,
+    "lng": -117.9790983
+  },
+  {
+    "state": "CA",
+    "city": "Banning",
+    "location": "Albertsons (Q01691, 300 S Highland Springs Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9241376,
+    "lng": -116.946364
+  },
+  {
+    "state": "CA",
+    "city": "Bell Gardens",
+    "location": "Food 4 Less (Q00711, 6901 Eastern Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9706719,
+    "lng": -118.1641552
+  },
+  {
+    "state": "CA",
+    "city": "Belmont",
+    "location": "Safeway (Q01083, 1100 El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5241388,
+    "lng": -122.2804676
+  },
+  {
+    "state": "CA",
+    "city": "Benicia",
+    "location": "Safeway (Q01274, 50 Solano Square)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.0548474,
+    "lng": -122.1561313
+  },
+  {
+    "state": "CA",
+    "city": "Berkeley",
+    "location": "Safeway (Q01020, 1444 Shattuck Pl)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.8809073,
+    "lng": -122.2696792
+  },
+  {
+    "state": "CA",
+    "city": "Brentwood",
+    "location": "WinCo Foods (Q00597, 6700 Lone Tree Wy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.961704,
+    "lng": -121.727697
+  },
+  {
+    "state": "CA",
+    "city": "Burbank",
+    "location": "Vons (Q00314, 301 N Pass Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1547997,
+    "lng": -118.3465694
+  },
+  {
+    "state": "CA",
+    "city": "Calabasas",
+    "location": "Albertsons (Q00523, 26521 Agoura Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1450584,
+    "lng": -118.6997665
+  },
+  {
+    "state": "CA",
+    "city": "Camarillo",
+    "location": "Vons (Q01242, 940 Arneill RD)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2233619,
+    "lng": -119.038934
+  },
+  {
+    "state": "CA",
+    "city": "Cameron Park",
+    "location": "Safeway (Q00974, 3380 Coach Ln)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6565429,
+    "lng": -120.9716909
+  },
+  {
+    "state": "CA",
+    "city": "Campbell",
+    "location": "Safeway (Q00971, 2341 S Winchester Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2800214,
+    "lng": -121.9510952
+  },
+  {
+    "state": "CA",
+    "city": "Campbell",
+    "location": "Safeway (Q01539, 950 W Hamilton Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2929666,
+    "lng": -121.9665351
+  },
+  {
+    "state": "CA",
+    "city": "Carlsbad",
+    "location": "Vons (Q00875, 2560 El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.17949,
+    "lng": -117.326674
+  },
+  {
+    "state": "CA",
+    "city": "Carlsbad",
+    "location": "Vons (Q01024, 6951 El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1036934,
+    "lng": -117.266833
+  },
+  {
+    "state": "CA",
+    "city": "Carmichael",
+    "location": "Safeway (Q00989, 4040 Manzanita Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6381512,
+    "lng": -121.3262171
+  },
+  {
+    "state": "CA",
+    "city": "Carson",
+    "location": "Albertsons (Q00722, 200 E Sepulveda Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8062515,
+    "lng": -118.2726926
+  },
+  {
+    "state": "CA",
+    "city": "Castro Valley",
+    "location": "Safeway (Q01102, 4015 E Castro Valley Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6947469,
+    "lng": -122.0503706
+  },
+  {
+    "state": "CA",
+    "city": "Chino",
+    "location": "Albertsons (Q00509, 12013 Central Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.035002,
+    "lng": -117.6878451
+  },
+  {
+    "state": "CA",
+    "city": "Chino Hills",
+    "location": "Albertsons (Q00519, 15970 Los Serranos Country Club Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9614979,
+    "lng": -117.6955185
+  },
+  {
+    "state": "CA",
+    "city": "Chino Hills",
+    "location": "Albertsons (Q01243, 3255 Grand Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0011233,
+    "lng": -117.7345031
+  },
+  {
+    "state": "CA",
+    "city": "Chula Vista",
+    "location": "Vons (Q00331, 1745 Eastlake Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.6196154,
+    "lng": -116.9609572
+  },
+  {
+    "state": "CA",
+    "city": "Chula Vista",
+    "location": "Vons (Q01032, 2250 Otay Lakes Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.6458007,
+    "lng": -116.9664562
+  },
+  {
+    "state": "CA",
+    "city": "Chula Vista",
+    "location": "Albertsons (Q01670, 720 3rd Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.626446,
+    "lng": -117.0757383
+  },
+  {
+    "state": "CA",
+    "city": "Chula Vista",
+    "location": "Ralphs (Q01791, 659 E Palomar St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.6158853,
+    "lng": -117.0251243
+  },
+  {
+    "state": "CA",
+    "city": "Citrus Heights",
+    "location": "Safeway (Q00941, 7301 Greenback Ln)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6799345,
+    "lng": -121.294236
+  },
+  {
+    "state": "CA",
+    "city": "Colton",
+    "location": "Food 4 Less (Q01692, 1150 N Pepper Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0796515,
+    "lng": -117.3528445
+  },
+  {
+    "state": "CA",
+    "city": "Compton",
+    "location": "Food 4 Less (Q00409, 1900 W Rosecrans Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9027113,
+    "lng": -118.2526114
+  },
+  {
+    "state": "CA",
+    "city": "Concord",
+    "location": "Safeway (Q00970, 2600 Willow Pass Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9783253,
+    "lng": -122.028257
+  },
+  {
+    "state": "CA",
+    "city": "Concord",
+    "location": "Safeway (Q01279, 4309 Clayton Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9661609,
+    "lng": -121.9907237
+  },
+  {
+    "state": "CA",
+    "city": "Corona",
+    "location": "Albertsons (Q00388, 260 W Foothill Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8435355,
+    "lng": -117.574217
+  },
+  {
+    "state": "CA",
+    "city": "Corona",
+    "location": "Vons (Q00508, 535 N McKinley St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8914216,
+    "lng": -117.5201632
+  },
+  {
+    "state": "CA",
+    "city": "Corona",
+    "location": "Vons (Q00511, 11800 De Palma Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.867015,
+    "lng": -117.556538
+  },
+  {
+    "state": "CA",
+    "city": "Corte Madera",
+    "location": "Safeway (Q01512, 137 Corte Madera Town Center)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9279905,
+    "lng": -122.5177187
+  },
+  {
+    "state": "CA",
+    "city": "Costa Mesa",
+    "location": "Ralphs (Q01781, 380 E 17th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6313578,
+    "lng": -117.9127407
+  },
+  {
+    "state": "CA",
+    "city": "Culver City",
+    "location": "Pavilions (Q00517, 11030 Jefferson Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9968452,
+    "lng": -118.3938653
+  },
+  {
+    "state": "CA",
+    "city": "Cupertino",
+    "location": "Safeway (Q01486, 20620 W Homestead Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.336179,
+    "lng": -122.0347351
+  },
+  {
+    "state": "CA",
+    "city": "Daly City",
+    "location": "Safeway (Q01516, 601 Westlake Center)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6995929,
+    "lng": -122.4816576
+  },
+  {
+    "state": "CA",
+    "city": "Danville",
+    "location": "Safeway (Q01151, 3496 Camino Tassajara)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7980683,
+    "lng": -121.9177916
+  },
+  {
+    "state": "CA",
+    "city": "Dixon",
+    "location": "Safeway (Q01320, 1235 Stratford Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4570077,
+    "lng": -121.8389754
+  },
+  {
+    "state": "CA",
+    "city": "Downey",
+    "location": "Food 4 Less (Q00311, 13525 Lakewood Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9049537,
+    "lng": -118.1427255
+  },
+  {
+    "state": "CA",
+    "city": "Downey",
+    "location": "Ralphs (Q00739, 8626 Firestone Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9360482,
+    "lng": -118.127147
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "location": "Safeway (Q00928, 7499 Dublin Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7055,
+    "lng": -121.926441
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "location": "Safeway (Q00930, 4440 Tassajara Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7066732,
+    "lng": -121.8740663
+  },
+  {
+    "state": "CA",
+    "city": "Eastvale",
+    "location": "Albertsons (Q00655, 7070 Archibald Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9594979,
+    "lng": -117.591573
+  },
+  {
+    "state": "CA",
+    "city": "Eastvale",
+    "location": "Vons (Q01167, 6170 Hamner Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9765041,
+    "lng": -117.5577031
+  },
+  {
+    "state": "CA",
+    "city": "El Cajon",
+    "location": "Albertsons (Q00474, 1608 Broadway)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8089693,
+    "lng": -116.920103
+  },
+  {
+    "state": "CA",
+    "city": "El Cajon",
+    "location": "Vons (Q00886, 1201 Avocado Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.7858724,
+    "lng": -116.9577407
+  },
+  {
+    "state": "CA",
+    "city": "El Cajon",
+    "location": "Albertsons (Q01247, 2899 Jamacha Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.739612,
+    "lng": -116.937938
+  },
+  {
+    "state": "CA",
+    "city": "El Cerrito",
+    "location": "Safeway (Q01018, 11450 San Pablo Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9223638,
+    "lng": -122.3154597
+  },
+  {
+    "state": "CA",
+    "city": "El Cerrito",
+    "location": "Lucky (Q01758, 1000 El Cerrito Plaza)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.903245,
+    "lng": -122.303877
+  },
+  {
+    "state": "CA",
+    "city": "El Dorado Hills",
+    "location": "Safeway (Q00938, 2207 Francisco Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.711388,
+    "lng": -121.0841069
+  },
+  {
+    "state": "CA",
+    "city": "El Dorado Hills",
+    "location": "Safeway (Q00977, 3383 Bass Lake Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6751471,
+    "lng": -121.028389
+  },
+  {
+    "state": "CA",
+    "city": "Elk Grove",
+    "location": "Safeway (Q00931, 5021 Laguna Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4242769,
+    "lng": -121.4466039
+  },
+  {
+    "state": "CA",
+    "city": "Elk Grove",
+    "location": "WinCo Foods (Q01530, 8124 Sheldon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.437952,
+    "lng": -121.4060674
+  },
+  {
+    "state": "CA",
+    "city": "Emeryville",
+    "location": "Pak N Save (Q01060, 3889 San Pablo Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.8292479,
+    "lng": -122.2800518
+  },
+  {
+    "state": "CA",
+    "city": "Escondido",
+    "location": "Albertsons (Q00890, 1570 W Valley Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1120959,
+    "lng": -117.102498
+  },
+  {
+    "state": "CA",
+    "city": "Escondido",
+    "location": "Vons (Q00892, 1000 W El Norte Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1487808,
+    "lng": -117.1063891
+  },
+  {
+    "state": "CA",
+    "city": "Escondido",
+    "location": "Vons (Q01030, 351 W Felicita Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1030054,
+    "lng": -117.0731432
+  },
+  {
+    "state": "CA",
+    "city": "Escondido",
+    "location": "Food 4 Less (Q01250, 644 N Broadway)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.128647,
+    "lng": -117.0829884
+  },
+  {
+    "state": "CA",
+    "city": "Fair Oaks",
+    "location": "Safeway (Q00943, 5450 Dewey Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6651642,
+    "lng": -121.3071329
+  },
+  {
+    "state": "CA",
+    "city": "Fairfield",
+    "location": "Safeway (Q01334, 2401 Waterman Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.2726681,
+    "lng": -122.0530988
+  },
+  {
+    "state": "CA",
+    "city": "Fallbrook",
+    "location": "Albertsons (Q00476, 1133 S Mission Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.3717377,
+    "lng": -117.255877
+  },
+  {
+    "state": "CA",
+    "city": "Fillmore",
+    "location": "Vons (Q00481, 636 Ventura St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.3949927,
+    "lng": -118.916297
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "location": "WinCo Foods (Q00690, 200 Blue Ravine Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.655746,
+    "lng": -121.173057
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "location": "Safeway (Q00981, 1850 Prairie City Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.649877,
+    "lng": -121.165815
+  },
+  {
+    "state": "CA",
+    "city": "Fontana",
+    "location": "WinCo Foods (Q00493, 14338 Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1073815,
+    "lng": -117.4920566
+  },
+  {
+    "state": "CA",
+    "city": "Fontana",
+    "location": "Vons (Q00563, 7390 Cherry Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.119886,
+    "lng": -117.4904384
+  },
+  {
+    "state": "CA",
+    "city": "Foster City",
+    "location": "Safeway (Q01239, 921 E Hillsdale Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5569254,
+    "lng": -122.2760333
+  },
+  {
+    "state": "CA",
+    "city": "Fountain Valley",
+    "location": "Albertsons (Q00328, 16061 Brookhurst St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7294124,
+    "lng": -117.9544625
+  },
+  {
+    "state": "CA",
+    "city": "Freedom",
+    "location": "Safeway (Q01337, 2010 Freedom Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 36.9386188,
+    "lng": -121.7773854
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "location": "Safeway (Q00973, 39100 Argonaut Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5452818,
+    "lng": -121.9893946
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "location": "Safeway (Q01026, 3902 Washington Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5315784,
+    "lng": -121.9571543
+  },
+  {
+    "state": "CA",
+    "city": "Fullerton",
+    "location": "Albertsons (Q00332, 1930 N Placentia Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8901073,
+    "lng": -117.8722955
+  },
+  {
+    "state": "CA",
+    "city": "Garden Grove",
+    "location": "Vons (Q00717, 11861 Valley View St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.790065,
+    "lng": -118.0292095
+  },
+  {
+    "state": "CA",
+    "city": "Gardena",
+    "location": "Vons (Q00658, 1260 W Redondo Beach Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8909612,
+    "lng": -118.2980135
+  },
+  {
+    "state": "CA",
+    "city": "Gardena",
+    "location": "Albertsons (Q00732, 1735 Artesia Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8744377,
+    "lng": -118.30826
+  },
+  {
+    "state": "CA",
+    "city": "Gardena",
+    "location": "Food 4 Less (Q01249, 1299 Artesia Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8726787,
+    "lng": -118.296416
+  },
+  {
+    "state": "CA",
+    "city": "Glendale",
+    "location": "Vons (Q00417, 561 N Glendale Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.149686,
+    "lng": -118.2460902
+  },
+  {
+    "state": "CA",
+    "city": "Glendale",
+    "location": "Vons (Q00699, 311 W Los Feliz Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.134829,
+    "lng": -118.263765
+  },
+  {
+    "state": "CA",
+    "city": "Glendora",
+    "location": "Albertsons (Q00427, 133 W Rte 66)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1301933,
+    "lng": -117.8649827
+  },
+  {
+    "state": "CA",
+    "city": "Goleta",
+    "location": "Vons (Q01245, 163 S Turnpike Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.437675,
+    "lng": -119.7905544
+  },
+  {
+    "state": "CA",
+    "city": "Granada Hills",
+    "location": "Vons (Q00702, 16830 San Fernando Mission Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2709502,
+    "lng": -118.4989341
+  },
+  {
+    "state": "CA",
+    "city": "Hacienda Heights",
+    "location": "Vons (Q00707, 2122 S Hacienda Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9950276,
+    "lng": -117.967317
+  },
+  {
+    "state": "CA",
+    "city": "Half Moon Bay",
+    "location": "Safeway (Q01277, 70 Cabrillo Hwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5037031,
+    "lng": -122.4775866
+  },
+  {
+    "state": "CA",
+    "city": "Hawthorne",
+    "location": "Food 4 Less (Q00315, 14500 Ocean Gate Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9023459,
+    "lng": -118.3670768
+  },
+  {
+    "state": "CA",
+    "city": "Hayward",
+    "location": "FoodMaxx (Q00626, 27300 Hesperian Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6316648,
+    "lng": -122.0973788
+  },
+  {
+    "state": "CA",
+    "city": "Hayward",
+    "location": "Safeway (Q01051, 22280 Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6797282,
+    "lng": -122.0833654
+  },
+  {
+    "state": "CA",
+    "city": "Hayward",
+    "location": "Safeway (Q01278, 231 W Jackson St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.652683,
+    "lng": -122.0914983
+  },
+  {
+    "state": "CA",
+    "city": "Healdsburg",
+    "location": "Safeway (Q01502, 1115 Vine St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6091801,
+    "lng": -122.8734384
+  },
+  {
+    "state": "CA",
+    "city": "Hemet",
+    "location": "WinCo Foods (Q00453, 4602 W Florida Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7440685,
+    "lng": -117.020284
+  },
+  {
+    "state": "CA",
+    "city": "Hercules",
+    "location": "Safeway (Q00939, 4080 San Pablo Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.0147921,
+    "lng": -122.2716522
+  },
+  {
+    "state": "CA",
+    "city": "Hermosa Beach",
+    "location": "Vons (Q00721, 715 Pier Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8659356,
+    "lng": -118.3944844
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "location": "Vons (Q00322, 5922 Edinger Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7285737,
+    "lng": -118.0249531
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "location": "Albertsons (Q00325, 7201 Yorktown Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6810114,
+    "lng": -118.0026956
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Beach",
+    "location": "Albertsons (Q00483, 19640 Beach Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6771299,
+    "lng": -117.986945
+  },
+  {
+    "state": "CA",
+    "city": "Huntington Park",
+    "location": "Food 4 Less (Q00418, 6920 Santa Fe Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9766583,
+    "lng": -118.2301517
+  },
+  {
+    "state": "CA",
+    "city": "Inglewood",
+    "location": "Food 4 Less (Q00380, 3200 W Century Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.944268,
+    "lng": -118.32817
+  },
+  {
+    "state": "CA",
+    "city": "Inglewood",
+    "location": "Vons (Q00422, 500 E Manchester Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9602536,
+    "lng": -118.3491685
+  },
+  {
+    "state": "CA",
+    "city": "Irvine",
+    "location": "Albertsons (Q00416, 14201 Jeffrey Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6952442,
+    "lng": -117.7654033
+  },
+  {
+    "state": "CA",
+    "city": "Irvine",
+    "location": "Albertsons (Q00590, 4541 Campus Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6501866,
+    "lng": -117.8313721
+  },
+  {
+    "state": "CA",
+    "city": "Irvine",
+    "location": "Albertsons (Q01285, 6601 Quail Hill Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6559289,
+    "lng": -117.7782885
+  },
+  {
+    "state": "CA",
+    "city": "Jackson",
+    "location": "Safeway (Q00922, 12110 Industry Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.3682067,
+    "lng": -120.8000357
+  },
+  {
+    "state": "CA",
+    "city": "La Crescenta-Montrose",
+    "location": "Vons (Q01241, 3233 Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2191648,
+    "lng": -118.2316989
+  },
+  {
+    "state": "CA",
+    "city": "La Habra",
+    "location": "Albertsons (Q00583, 1800 W Whittier Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9385624,
+    "lng": -117.9661918
+  },
+  {
+    "state": "CA",
+    "city": "La Jolla",
+    "location": "Pavilions (Q00576, 7544 Girard Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8417228,
+    "lng": -117.2735782
+  },
+  {
+    "state": "CA",
+    "city": "La Mesa",
+    "location": "Albertsons (Q00878, 8920 Fletcher Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.7876454,
+    "lng": -117.0025564
+  },
+  {
+    "state": "CA",
+    "city": "La Mirada",
+    "location": "Albertsons (Q01777, 15200 Rosecrans Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8969389,
+    "lng": -118.0075959
+  },
+  {
+    "state": "CA",
+    "city": "La Puente",
+    "location": "Food 4 Less (Q00338, 1821 N Hacienda Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0522054,
+    "lng": -117.944354
+  },
+  {
+    "state": "CA",
+    "city": "La Verne",
+    "location": "Vons (Q00515, 1600 Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.114542,
+    "lng": -117.7731607
+  },
+  {
+    "state": "CA",
+    "city": "Ladera Ranch",
+    "location": "Albertsons (Q00498, 27702 Crown Valley Pkwy B)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.5625309,
+    "lng": -117.6462368
+  },
+  {
+    "state": "CA",
+    "city": "Laguna Niguel",
+    "location": "Albertsons (Q01007, 30241 Golden Lantern)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.5239976,
+    "lng": -117.6877593
+  },
+  {
+    "state": "CA",
+    "city": "Lake Elsinore",
+    "location": "Albertsons (Q00518, 30901 Riverside Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.686074,
+    "lng": -117.3670048
+  },
+  {
+    "state": "CA",
+    "city": "Lakewood",
+    "location": "Vons (Q00317, 4226 Woodruff Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.834477,
+    "lng": -118.1160927
+  },
+  {
+    "state": "CA",
+    "city": "Lakewood",
+    "location": "Vons (Q00740, 5500 Woodruff Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8566919,
+    "lng": -118.1154313
+  },
+  {
+    "state": "CA",
+    "city": "Lakewood",
+    "location": "WinCo Foods (Q01286, 3400 E South St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8602312,
+    "lng": -118.1483832
+  },
+  {
+    "state": "CA",
+    "city": "Livermore",
+    "location": "Safeway (Q00987, 1554 First St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6804668,
+    "lng": -121.777351
+  },
+  {
+    "state": "CA",
+    "city": "Livermore",
+    "location": "Safeway (Q01049, 4495 First St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6952764,
+    "lng": -121.742953
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "location": "Vons (Q00654, 1800-2000 Ximeno Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7856477,
+    "lng": -118.1415067
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "location": "Food 4 Less (Q00720, 3210 E Anaheim St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.782506,
+    "lng": -118.1543469
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "location": "Albertsons (Q01019, 101 E Willow St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8054885,
+    "lng": -118.19234
+  },
+  {
+    "state": "CA",
+    "city": "Los Altos",
+    "location": "Safeway (Q01517, 160 1st St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3790099,
+    "lng": -122.1190225
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00324, 5100 N Figueroa St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1054621,
+    "lng": -118.2009727
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Vons (Q00336, 3461 W 3rd St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0697992,
+    "lng": -118.290693
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00386, 11507 S Western Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9298129,
+    "lng": -118.3090519
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00391, 11840 Wilmington Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9254011,
+    "lng": -118.238858
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00411, 18318 Vanowen St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1937756,
+    "lng": -118.532099
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00413, 1820 W Slauson Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9890452,
+    "lng": -118.3092713
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q00420, 2750 1st St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0960706,
+    "lng": -117.759779
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Vons (Q00425, 4520 W Sunset Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0970683,
+    "lng": -118.2879931
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Pavilions (Q00514, 6534 Platt Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1892898,
+    "lng": -118.6414135
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Vons (Q00577, 7789 Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2591937,
+    "lng": -118.3011841
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Vons (Q00719, 7311 N Figueroa St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1362211,
+    "lng": -118.1895122
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "location": "Food 4 Less (Q01694, 12689 Glenoaks Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.300871,
+    "lng": -118.441173
+  },
+  {
+    "state": "CA",
+    "city": "Los Gatos",
+    "location": "Safeway (Q00978, 470 N Santa Cruz Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.231425,
+    "lng": -121.9790836
+  },
+  {
+    "state": "CA",
+    "city": "Los Gatos",
+    "location": "Safeway (Q00983, 15549 Union Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2422274,
+    "lng": -121.931288
+  },
+  {
+    "state": "CA",
+    "city": "Manteca",
+    "location": "Safeway (Q00980, 1187 S Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7866677,
+    "lng": -121.2187639
+  },
+  {
+    "state": "CA",
+    "city": "Marina del Rey",
+    "location": "Pavilions (Q00512, 4365 Glencoe Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.985777,
+    "lng": -118.442803
+  },
+  {
+    "state": "CA",
+    "city": "Martinez",
+    "location": "Safeway (Q01109, 6688 Alhambra Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9579697,
+    "lng": -122.0939203
+  },
+  {
+    "state": "CA",
+    "city": "Menlo Park",
+    "location": "Safeway (Q01330, 525 El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.4505561,
+    "lng": -122.1792211
+  },
+  {
+    "state": "CA",
+    "city": "Millbrae",
+    "location": "Safeway (Q01510, 525 El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.603347,
+    "lng": -122.3941351
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "location": "Safeway (Q00982, 555 E Calaveras Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.4350065,
+    "lng": -121.8980289
+  },
+  {
+    "state": "CA",
+    "city": "Mission Hills",
+    "location": "Vons (Q00501, 10321 Sepulveda Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2580037,
+    "lng": -118.4683776
+  },
+  {
+    "state": "CA",
+    "city": "Mission Viejo",
+    "location": "Albertsons (Q00575, 23072 Alicia Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6275644,
+    "lng": -117.6361381
+  },
+  {
+    "state": "CA",
+    "city": "Mission Viejo",
+    "location": "Pavilions (Q01270, 26022 Marguerite Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.585968,
+    "lng": -117.6575
+  },
+  {
+    "state": "CA",
+    "city": "Monrovia",
+    "location": "Vons (Q00335, 130 W Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1500872,
+    "lng": -118.0020215
+  },
+  {
+    "state": "CA",
+    "city": "Montebello",
+    "location": "Albertsons (Q00704, 2469 Via Campo)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0327006,
+    "lng": -118.1231238
+  },
+  {
+    "state": "CA",
+    "city": "Moorpark",
+    "location": "Vons (Q01792, 4241 Tierra Rejada Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2622331,
+    "lng": -118.8674538
+  },
+  {
+    "state": "CA",
+    "city": "Moraga",
+    "location": "Safeway (Q01233, 1355 Moraga Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.8363111,
+    "lng": -122.1284438
+  },
+  {
+    "state": "CA",
+    "city": "Moreno Valley",
+    "location": "WinCo Foods (Q00497, 12880 Day St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9328068,
+    "lng": -117.2787181
+  },
+  {
+    "state": "CA",
+    "city": "Moreno Valley",
+    "location": "Food 4 Less (Q01796, 24440 Alessandro Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.917663,
+    "lng": -117.2364131
+  },
+  {
+    "state": "CA",
+    "city": "Morgan Hill",
+    "location": "Safeway (Q00932, 235 Tennant Station)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.1130037,
+    "lng": -121.6398591
+  },
+  {
+    "state": "CA",
+    "city": "Morgan Hill",
+    "location": "Safeway (Q00985, 840 E Dunne Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.1287525,
+    "lng": -121.6364085
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "location": "Safeway (Q01271, 645 San Antonio Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.4017803,
+    "lng": -122.1118102
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "location": "Safeway (Q01513, 1750 Miramonte Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3723596,
+    "lng": -122.0884332
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "location": "Safeway (Q01538, 570 N Shoreline Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.4031206,
+    "lng": -122.079306
+  },
+  {
+    "state": "CA",
+    "city": "Murrieta",
+    "location": "Albertsons (Q00485, 39140 Winchester Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.5510746,
+    "lng": -117.1386363
+  },
+  {
+    "state": "CA",
+    "city": "Murrieta",
+    "location": "Albertsons (Q00495, 41000 California Oaks Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.5669149,
+    "lng": -117.2037013
+  },
+  {
+    "state": "CA",
+    "city": "Newhall",
+    "location": "Vons (Q01184, 24160 Lyons Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.3800999,
+    "lng": -118.5343182
+  },
+  {
+    "state": "CA",
+    "city": "Newport Beach",
+    "location": "Pavilions (Q00995, 21181 Newport Coast Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.6067259,
+    "lng": -117.8277769
+  },
+  {
+    "state": "CA",
+    "city": "North Hills",
+    "location": "Food 4 Less (Q00419, 16208 Parthenia St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2280492,
+    "lng": -118.4855405
+  },
+  {
+    "state": "CA",
+    "city": "North Hollywood",
+    "location": "Food 4 Less (Q00412, 8035 Webb Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2163535,
+    "lng": -118.3884722
+  },
+  {
+    "state": "CA",
+    "city": "Novato",
+    "location": "Safeway (Q01519, 5720 Nave Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.0622832,
+    "lng": -122.5321241
+  },
+  {
+    "state": "CA",
+    "city": "Oakland",
+    "location": "FoodMaxx (Q00984, 3000 E 9th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.775348,
+    "lng": -122.232657
+  },
+  {
+    "state": "CA",
+    "city": "Oakland",
+    "location": "Albertsons (Q01126, 5100 Broadway)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.8349098,
+    "lng": -122.2486398
+  },
+  {
+    "state": "CA",
+    "city": "Oakland",
+    "location": "Safeway (Q01164, 4100 Redwood Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7983444,
+    "lng": -122.1824303
+  },
+  {
+    "state": "CA",
+    "city": "Oakland",
+    "location": "Safeway (Q01267, 6310 College Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.8500964,
+    "lng": -122.252205
+  },
+  {
+    "state": "CA",
+    "city": "Oceanside",
+    "location": "Albertsons (Q00668, 3450 Marron Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1796149,
+    "lng": -117.296568
+  },
+  {
+    "state": "CA",
+    "city": "Oceanside",
+    "location": "Albertsons (Q00751, 4150 Oceanside Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.2077688,
+    "lng": -117.2873378
+  },
+  {
+    "state": "CA",
+    "city": "Oceanside",
+    "location": "Vons (Q01005, 845 College Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.240759,
+    "lng": -117.2947536
+  },
+  {
+    "state": "CA",
+    "city": "Oceanside",
+    "location": "WinCo Foods (Q01300, 2245 S El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1854438,
+    "lng": -117.3303745
+  },
+  {
+    "state": "CA",
+    "city": "Oceanside",
+    "location": "Ralphs (Q01658, 101 Old Grove Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.2297013,
+    "lng": -117.3071614
+  },
+  {
+    "state": "CA",
+    "city": "Ontario",
+    "location": "Food 4 Less (Q01176, 2246 S Euclid Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0333432,
+    "lng": -117.6505925
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "location": "Vons (Q00591, 2684 N Tustin St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8331586,
+    "lng": -117.8373793
+  },
+  {
+    "state": "CA",
+    "city": "Orangevale",
+    "location": "WinCo Foods (Q01251, 8701 Greenback Ln)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6798644,
+    "lng": -121.2338152
+  },
+  {
+    "state": "CA",
+    "city": "Oxnard",
+    "location": "Vons (Q00494, 2101 N Rose Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2221039,
+    "lng": -119.161801
+  },
+  {
+    "state": "CA",
+    "city": "Pacifica",
+    "location": "Safeway (Q01344, 1380 Linda Mar Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5944257,
+    "lng": -122.5030856
+  },
+  {
+    "state": "CA",
+    "city": "Pacifica",
+    "location": "Safeway (Q01387, 709 Hickey Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6609627,
+    "lng": -122.4778321
+  },
+  {
+    "state": "CA",
+    "city": "Pasadena",
+    "location": "Vons (Q00372, 2355 E Colorado Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1476223,
+    "lng": -118.1021041
+  },
+  {
+    "state": "CA",
+    "city": "Perris",
+    "location": "WinCo Foods (Q01730, 3150 Case Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7470016,
+    "lng": -117.1926591
+  },
+  {
+    "state": "CA",
+    "city": "Petaluma",
+    "location": "Safeway (Q01492, 701 Sonoma Mountain Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.2697049,
+    "lng": -122.6389113
+  },
+  {
+    "state": "CA",
+    "city": "Petaluma",
+    "location": "Safeway (Q01525, 389 S McDowell Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.2489174,
+    "lng": -122.6219218
+  },
+  {
+    "state": "CA",
+    "city": "Pinole",
+    "location": "Lucky (Q01757, 1530 Fitzgerald Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9915676,
+    "lng": -122.3028331
+  },
+  {
+    "state": "CA",
+    "city": "Placerville",
+    "location": "Safeway (Q00969, 3955 Missouri Flat Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.7143176,
+    "lng": -120.8397041
+  },
+  {
+    "state": "CA",
+    "city": "Pleasant Hill",
+    "location": "Safeway (Q00967, 600 Patterson Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9341793,
+    "lng": -122.0722507
+  },
+  {
+    "state": "CA",
+    "city": "Pleasant Hill",
+    "location": "Safeway (Q01031, 1978 Contra Costa Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9489693,
+    "lng": -122.0579725
+  },
+  {
+    "state": "CA",
+    "city": "Pleasant Hill",
+    "location": "Safeway (Q01148, 707 Contra Costa Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9711448,
+    "lng": -122.0616534
+  },
+  {
+    "state": "CA",
+    "city": "Pleasanton",
+    "location": "Safeway (Q00944, 1701 Santa Rita Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6748083,
+    "lng": -121.8744273
+  },
+  {
+    "state": "CA",
+    "city": "Pomona",
+    "location": "WinCo Foods (Q01236, 90 Rio Rancho Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.02703,
+    "lng": -117.7622
+  },
+  {
+    "state": "CA",
+    "city": "Rancho Cordova",
+    "location": "Safeway (Q00935, 10635 Folsom Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.5955284,
+    "lng": -121.2933482
+  },
+  {
+    "state": "CA",
+    "city": "Rancho Cucamonga",
+    "location": "Albertsons (Q00468, 11358 Kenyon Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1354126,
+    "lng": -117.5574085
+  },
+  {
+    "state": "CA",
+    "city": "Redlands",
+    "location": "Albertsons (Q00475, 450 E Cypress Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0484855,
+    "lng": -117.1713725
+  },
+  {
+    "state": "CA",
+    "city": "Redondo Beach",
+    "location": "Vons (Q00741, 4001 Inglewood Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8929468,
+    "lng": -118.362459
+  },
+  {
+    "state": "CA",
+    "city": "Riverside",
+    "location": "Albertsons (Q00500, 2975 Van Buren Boulevard)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9098993,
+    "lng": -117.436339
+  },
+  {
+    "state": "CA",
+    "city": "Riverside",
+    "location": "Vons (Q01097, 3520 Riverside Plaza Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9546904,
+    "lng": -117.3895185
+  },
+  {
+    "state": "CA",
+    "city": "Riverside",
+    "location": "Food 4 Less (Q01129, 4250 Van Buren Boulevard)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9275443,
+    "lng": -117.4533573
+  },
+  {
+    "state": "CA",
+    "city": "Rocklin",
+    "location": "Safeway (Q00631, 2220 Sunset Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.8028836,
+    "lng": -121.2742712
+  },
+  {
+    "state": "CA",
+    "city": "Rohnert Park",
+    "location": "Safeway (Q00603, 6340 Commerce Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.347619,
+    "lng": -122.708387
+  },
+  {
+    "state": "CA",
+    "city": "Rolling Hills Estates",
+    "location": "Pavilions (Q00714, 7 Peninsula Center)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7745314,
+    "lng": -118.3763054
+  },
+  {
+    "state": "CA",
+    "city": "Roseville",
+    "location": "Safeway (Q00923, 8640 Sierra College Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.7419805,
+    "lng": -121.2284967
+  },
+  {
+    "state": "CA",
+    "city": "Roseville",
+    "location": "Safeway (Q00927, 1080 Pleasant Grove Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.7774034,
+    "lng": -121.2916016
+  },
+  {
+    "state": "CA",
+    "city": "Roseville",
+    "location": "Safeway (Q00929, 989 Sunrise Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.7299402,
+    "lng": -121.2711321
+  },
+  {
+    "state": "CA",
+    "city": "Roseville",
+    "location": "Safeway (Q00988, 9045 Woodcreek Oaks Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.794003,
+    "lng": -121.3306334
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q00924, 1814 19th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.567937,
+    "lng": -121.4862182
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q00926, 1025 Alhambra Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.571612,
+    "lng": -121.464612
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q00933, 3320 Arden Wy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.5945686,
+    "lng": -121.3866436
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q00968, 8377 Elk Grove Florin Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4534044,
+    "lng": -121.3700104
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q01522, 5345 Elkhorn Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6864834,
+    "lng": -121.3394386
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "WinCo Foods (Q01534, 2300 Watt Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6072589,
+    "lng": -121.381167
+  },
+  {
+    "state": "CA",
+    "city": "Sacramento",
+    "location": "Safeway (Q01537, 2851 Del Paso Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.6576986,
+    "lng": -121.5247511
+  },
+  {
+    "state": "CA",
+    "city": "San Anselmo",
+    "location": "Safeway (Q01500, 838 Sir Francis Drake Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9807253,
+    "lng": -122.5640939
+  },
+  {
+    "state": "CA",
+    "city": "San Clemente",
+    "location": "Albertsons (Q00521, 804 Avenida Pico)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.4428242,
+    "lng": -117.6139483
+  },
+  {
+    "state": "CA",
+    "city": "San Clemente",
+    "location": "Pavilions (Q01291, 989 Avenida Pico)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.4567197,
+    "lng": -117.6033615
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00489, 620 Dennery Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.5831392,
+    "lng": -117.0346611
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00492, 11986 Bernardo Plaza Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.0209308,
+    "lng": -117.0722018
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00499, 6155 El Cajon Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.7609208,
+    "lng": -117.0649087
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00505, 8310 Mira Mesa Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.9152435,
+    "lng": -117.1447578
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00506, 515 Washington St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.7498654,
+    "lng": -117.1601532
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Albertsons (Q00572, 12475 Rancho Bernardo Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.0177351,
+    "lng": -117.061323
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Albertsons (Q00581, 8650 Lake Murray Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8016326,
+    "lng": -117.0132403
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00592, 4145 30th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.7531926,
+    "lng": -117.129518
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00615, 4725 Clairemont Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8301052,
+    "lng": -117.204649
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00888, 3550 Murphy Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8086337,
+    "lng": -117.1159837
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q00889, 10675 Scripps Poway Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.9353238,
+    "lng": -117.0984971
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "location": "Vons (Q01266, 7895 Highlands Village Pl)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.9610169,
+    "lng": -117.1536689
+  },
+  {
+    "state": "CA",
+    "city": "San Dimas",
+    "location": "Albertsons (Q00496, 220 E Bonita Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1059633,
+    "lng": -117.8034836
+  },
+  {
+    "state": "CA",
+    "city": "San Francisco",
+    "location": "Safeway (Q00920, 735 7th Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7744934,
+    "lng": -122.465464
+  },
+  {
+    "state": "CA",
+    "city": "San Francisco",
+    "location": "Safeway (Q01345, 5290 Diamond Heights Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7435713,
+    "lng": -122.4389441
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Lucky (Q00921, 3457 McKee Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3809384,
+    "lng": -121.8293241
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q00925, 5760 Cottle Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2463125,
+    "lng": -121.80287
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q00934, 1663 Branham Ln)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2530689,
+    "lng": -121.908345
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q00937, 4950 Almaden Expy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2601283,
+    "lng": -121.8744879
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q00986, 179 Branham Ln)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2672677,
+    "lng": -121.8331876
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q00991, 1530 Hamilton Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2932068,
+    "lng": -121.9109793
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q01526, 5146 Stevens Creek Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3204638,
+    "lng": -121.9927684
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "Safeway (Q01529, 6150 Bollinger Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.309755,
+    "lng": -122.011983
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "location": "FoodMaxx (Q01752, 1539 Parkmoor Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3175641,
+    "lng": -121.916399
+  },
+  {
+    "state": "CA",
+    "city": "San Leandro",
+    "location": "Safeway (Q01160, 699 Lewelling Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6880712,
+    "lng": -122.1362048
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "location": "WinCo Foods (Q00479, 555 Grand Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.135105,
+    "lng": -117.1763246
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "location": "Albertsons (Q00502, 151 Woodland Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1400088,
+    "lng": -117.1384078
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "location": "Albertsons (Q00877, 1929 W San Marcos Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1319118,
+    "lng": -117.2109589
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "location": "Albertsons (Q01022, 1571 San Elijo Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.096924,
+    "lng": -117.199651
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "location": "Ralphs (Q01717, 306 S Twin Oaks Valley Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.1306589,
+    "lng": -117.166728
+  },
+  {
+    "state": "CA",
+    "city": "San Mateo",
+    "location": "Safeway (Q01134, 100 De Anza Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5207748,
+    "lng": -122.3378724
+  },
+  {
+    "state": "CA",
+    "city": "San Mateo",
+    "location": "Safeway (Q01260, 1655 S El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5533511,
+    "lng": -122.3136649
+  },
+  {
+    "state": "CA",
+    "city": "San Pedro",
+    "location": "Albertsons (Q00177, 28090 S Western Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7647801,
+    "lng": -118.3099129
+  },
+  {
+    "state": "CA",
+    "city": "San Ramon",
+    "location": "Safeway (Q01039, 11060 Bollinger Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7749163,
+    "lng": -121.92208
+  },
+  {
+    "state": "CA",
+    "city": "Santa Ana",
+    "location": "Food 4 Less (Q00320, 2140 S Bristol St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7179374,
+    "lng": -117.8866273
+  },
+  {
+    "state": "CA",
+    "city": "Santa Ana",
+    "location": "Vons (Q00414, 3650 S Bristol St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7224406,
+    "lng": -117.8852291
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clarita",
+    "location": "Albertsons (Q00487, 27631 Bouquet Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.4431732,
+    "lng": -118.5108014
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clarita",
+    "location": "Food 4 Less (Q01656, 19200 Soledad Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.4157984,
+    "lng": -118.4695931
+  },
+  {
+    "state": "CA",
+    "city": "Santa Cruz",
+    "location": "Safeway (Q01338, 2203 Mission St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 36.9616709,
+    "lng": -122.0450987
+  },
+  {
+    "state": "CA",
+    "city": "Santa Paula",
+    "location": "Vons (Q00513, 576 W Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.3446754,
+    "lng": -119.0814549
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q00623, 1799 Marlow Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4520178,
+    "lng": -122.7528343
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q00632, 100 Calistoga Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4656347,
+    "lng": -122.6516221
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q00672, 2300 Mendocino Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4635534,
+    "lng": -122.7173537
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q00976, 2751 4th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4509453,
+    "lng": -122.6910553
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "FoodMaxx (Q01256, 2055 Sebastopol Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4271787,
+    "lng": -122.7435841
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q01339, 1211 W College Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4463291,
+    "lng": -122.7413217
+  },
+  {
+    "state": "CA",
+    "city": "Santa Rosa",
+    "location": "Safeway (Q01484, 2785 Yulupa Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4257611,
+    "lng": -122.6684837
+  },
+  {
+    "state": "CA",
+    "city": "Santee",
+    "location": "Vons (Q01655, 9643 Mission Gorge Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.8372097,
+    "lng": -116.9869854
+  },
+  {
+    "state": "CA",
+    "city": "Saratoga",
+    "location": "Safeway (Q01521, 12876 Saratoga Sunnyvale Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.2812174,
+    "lng": -122.0311207
+  },
+  {
+    "state": "CA",
+    "city": "Saugus",
+    "location": "Vons (Q01223, 26518 Bouquet Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.4270145,
+    "lng": -118.5352336
+  },
+  {
+    "state": "CA",
+    "city": "Scotts Valley",
+    "location": "Safeway (Q01331, 253 Mt Hermon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.0472422,
+    "lng": -122.0314007
+  },
+  {
+    "state": "CA",
+    "city": "Sebastopol",
+    "location": "Safeway (Q01514, 406 N Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.4044911,
+    "lng": -122.8271465
+  },
+  {
+    "state": "CA",
+    "city": "Sherman Oaks",
+    "location": "Pavilions (Q00469, 14845 Ventura Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1523342,
+    "lng": -118.4567529
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "location": "Albertsons (Q00465, 1268 Madera Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2616862,
+    "lng": -118.7945952
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "location": "Vons (Q00486, 1855 Cochran St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2799841,
+    "lng": -118.7624145
+  },
+  {
+    "state": "CA",
+    "city": "Simi Valley",
+    "location": "Vons (Q00504, 2938 Tapo Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.287455,
+    "lng": -118.7156188
+  },
+  {
+    "state": "CA",
+    "city": "Sonoma",
+    "location": "Safeway (Q01536, 477 W Napa St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.2915744,
+    "lng": -122.4675787
+  },
+  {
+    "state": "CA",
+    "city": "South San Francisco",
+    "location": "Safeway (Q01351, 30 Chestnut Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6556626,
+    "lng": -122.4316791
+  },
+  {
+    "state": "CA",
+    "city": "South San Francisco",
+    "location": "Safeway (Q01532, 2255 Gellert Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.6465908,
+    "lng": -122.45197
+  },
+  {
+    "state": "CA",
+    "city": "Spring Valley",
+    "location": "Albertsons (Q01218, 543 Sweetwater Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 32.708019,
+    "lng": -117.008632
+  },
+  {
+    "state": "CA",
+    "city": "Stevenson Ranch",
+    "location": "Ralphs (Q01690, 24975 Pico Canyon Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.3824922,
+    "lng": -118.5743291
+  },
+  {
+    "state": "CA",
+    "city": "Stockton",
+    "location": "Safeway (Q00975, 6445 Pacific Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.0085726,
+    "lng": -121.3212546
+  },
+  {
+    "state": "CA",
+    "city": "Stockton",
+    "location": "Safeway (Q01057, 2808 Country Club Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9623169,
+    "lng": -121.3375412
+  },
+  {
+    "state": "CA",
+    "city": "Sunnyvale",
+    "location": "Safeway (Q00611, 639 S Bernardo Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3728682,
+    "lng": -122.0580703
+  },
+  {
+    "state": "CA",
+    "city": "Sunnyvale",
+    "location": "Safeway (Q01503, 150 E El Camino Real)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.3644505,
+    "lng": -122.0307183
+  },
+  {
+    "state": "CA",
+    "city": "Temecula",
+    "location": "WinCo Foods (Q01185, 40435 Winchester Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.529507,
+    "lng": -117.1538097
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "location": "Vons (Q00507, 2048 E Avenida de Los Arboles)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2098989,
+    "lng": -118.8409332
+  },
+  {
+    "state": "CA",
+    "city": "Thousand Oaks",
+    "location": "Vons (Q01783, 1790 N Moorpark Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.20161,
+    "lng": -118.8667809
+  },
+  {
+    "state": "CA",
+    "city": "Torrance",
+    "location": "Vons (Q00423, 4705 Torrance Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8383808,
+    "lng": -118.3634924
+  },
+  {
+    "state": "CA",
+    "city": "Torrance",
+    "location": "Vons (Q00706, 24325 Crenshaw Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8051596,
+    "lng": -118.3305412
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "location": "Safeway (Q00972, 1801 W 11th St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.7397724,
+    "lng": -121.4523797
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "location": "WinCo Foods (Q01325, 2850 Pavilion Pkwy)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.738225,
+    "lng": -121.451881
+  },
+  {
+    "state": "CA",
+    "city": "Tustin",
+    "location": "Albertsons (Q00348, 13270 Newport Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.745182,
+    "lng": -117.8128455
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "location": "Safeway (Q00979, 1790 Decoto Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.5877404,
+    "lng": -122.019424
+  },
+  {
+    "state": "CA",
+    "city": "Upland",
+    "location": "Albertsons (Q00661, 1910 N Campus Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1311778,
+    "lng": -117.6376319
+  },
+  {
+    "state": "CA",
+    "city": "Upland",
+    "location": "Vons (Q00731, 81 W Foothill Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.1081283,
+    "lng": -117.6528012
+  },
+  {
+    "state": "CA",
+    "city": "Vacaville",
+    "location": "Safeway (Q01346, 2090 Harbison Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.3620558,
+    "lng": -121.9616859
+  },
+  {
+    "state": "CA",
+    "city": "Valencia",
+    "location": "Albertsons (Q00478, 23850 Copper Hill Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.4623278,
+    "lng": -118.5566385
+  },
+  {
+    "state": "CA",
+    "city": "Valencia",
+    "location": "Vons (Q01216, 25850 The Old Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.3908963,
+    "lng": -118.5720597
+  },
+  {
+    "state": "CA",
+    "city": "Vallejo",
+    "location": "Safeway (Q01523, 122 Robles Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.0844973,
+    "lng": -122.2102302
+  },
+  {
+    "state": "CA",
+    "city": "Van Nuys",
+    "location": "Food 4 Less (Q00370, 16530 Sherman Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2012164,
+    "lng": -118.4402176
+  },
+  {
+    "state": "CA",
+    "city": "Ventura",
+    "location": "Vons (Q01123, 115 W Main St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.2824495,
+    "lng": -119.3023392
+  },
+  {
+    "state": "CA",
+    "city": "Vista",
+    "location": "Albertsons (Q00488, 1301 E Vista Way)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.2185202,
+    "lng": -117.224407
+  },
+  {
+    "state": "CA",
+    "city": "Vista",
+    "location": "Albertsons (Q00516, 1601 S Melrose Dr)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.16554,
+    "lng": -117.247425
+  },
+  {
+    "state": "CA",
+    "city": "Walnut Creek",
+    "location": "Safeway (Q00936, 2800 Ygnacio Valley Rd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 37.9272435,
+    "lng": -122.0184678
+  },
+  {
+    "state": "CA",
+    "city": "West Covina",
+    "location": "Food 4 Less (Q00248, 615 N Azusa Ave)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.081706,
+    "lng": -117.90786
+  },
+  {
+    "state": "CA",
+    "city": "West Hollywood",
+    "location": "Pavilions (Q00415, 8969 Santa Monica Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.0835953,
+    "lng": -118.3869083
+  },
+  {
+    "state": "CA",
+    "city": "Westminster",
+    "location": "Albertsons (Q00662, 6755 Westminster Blvd.)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7613614,
+    "lng": -118.0091758
+  },
+  {
+    "state": "CA",
+    "city": "Whittier",
+    "location": "Vons (Q00327, 15740 La Forge St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.9541638,
+    "lng": -118.0282943
+  },
+  {
+    "state": "CA",
+    "city": "Wilmington",
+    "location": "Food 4 Less (Q00410, 336 W Anaheim St)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.7787314,
+    "lng": -118.2655659
+  },
+  {
+    "state": "CA",
+    "city": "Windsor",
+    "location": "Safeway (Q01524, 9080 Brooks Rd S)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 38.5517658,
+    "lng": -122.8062641
+  },
+  {
+    "state": "CA",
+    "city": "Yorba Linda",
+    "location": "Vons (Q01240, 20445 Yorba Linda Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 33.8932761,
+    "lng": -117.7756635
+  },
+  {
+    "state": "CA",
+    "city": "Yucaipa",
+    "location": "Vons (Q00503, 33644 Yucaipa Blvd)",
+    "notes": "Pokémon TCG vending",
+    "type": "Pokémon TCG",
+    "lat": 34.035458,
+    "lng": -117.0700924
+  }
+]
