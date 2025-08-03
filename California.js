@@ -1,4 +1,77 @@
-const california = [
+//const california = [
+  const california = [
+  {
+    city: "Alameda",
+    state: "CA",
+    location: "Safeway (Q01036, 2227 S Shore Center)",
+    lat: 37.7652,
+    lng: -122.2566,
+  },
+  {
+    city: "Alameda",
+    state: "CA",
+    location: "Safeway (Q01268, 2600 5th St)",
+    lat: 37.7787,
+    lng: -122.2782,
+  },
+  {
+    city: "American Canyon",
+    state: "CA",
+    location: "Safeway (Q01528, 103 American Canyon Rd)",
+    lat: 38.1762,
+    lng: -122.2601,
+  },
+  {
+    city: "Anaheim",
+    state: "CA",
+    location: "Food 4 Less (Q00330, 1616 W Katella Ave)",
+    lat: 33.8081,
+    lng: -117.9397,
+  },
+  {
+    city: "Anaheim",
+    state: "CA",
+    location: "Albertsons (Q00491, 810 S State College Blvd)",
+    lat: 33.8246,
+    lng: -117.8881,
+  },
+  {
+    city: "Anaheim",
+    state: "CA",
+    location: "Albertsons (Q01420, 5600 E Santa Ana Canyon Rd)",
+    lat: 33.8502,
+    lng: -117.7771,
+  },
+  {
+    city: "Aptos",
+    state: "CA",
+    location: "Safeway (Q00508, 16 Rancho del Mar)",
+    lat: 36.9782,
+    lng: -121.8995,
+  },
+  {
+    city: "Arcadia",
+    state: "CA",
+    location: "99 Ranch Market (Q01066, 298 Live Oak Ave)",
+    lat: 34.1045,
+    lng: -118.0355,
+  },
+  {
+    city: "Arcadia",
+    state: "CA",
+    location: "99 Ranch Market (Q01289, 745 W Naomi Ave)",
+    lat: 34.1251,
+    lng: -118.0609,
+  },
+  {
+    city: "Arleta",
+    state: "CA",
+    location: "Food 4 Less (Q00291, 9635 Laurel Canyon Blvd)",
+    lat: 34.2436,
+    lng: -118.4230,
+  },
+];
+/*
   {"state": "CA", "city": "Alameda", "location": "Safeway (Q01036, 2227 S Shore Center)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
   {"state": "CA", "city": "Alameda", "location": "Safeway (Q01268, 2600 5th St)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
   {"state": "CA", "city": "American Canyon", "location": "Safeway (Q01528, 103 American Canyon Rd)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
@@ -317,3 +390,4 @@ const california = [
   {"state": "CA", "city": "Yorba Linda", "location": "Vons (Q01240, 20445 Yorba Linda Blvd)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
   {"state": "CA", "city": "Yucaipa", "location": "Vons (Q00503, 33644 Yucaipa Blvd)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"}
 ];
+*/
