@@ -1,4 +1,4 @@
-const California = [
+const california = [
   {"state": "CA", "city": "Alameda", "location": "Safeway (Q01036, 2227 S Shore Center)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
   {"state": "CA", "city": "Alameda", "location": "Safeway (Q01268, 2600 5th St)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
   {"state": "CA", "city": "American Canyon", "location": "Safeway (Q01528, 103 American Canyon Rd)", "notes": "Pokémon TCG vending", "type": "Pokémon TCG"},
