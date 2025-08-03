@@ -41,8 +41,8 @@
     "location": "WinCo Foods (Q01715, 1341 Main St)",
     "notes": "Pokémon TCG vending",
     "type": "Pokémon TCG",
-    "lat": 32.6929819,
-    "lng": -117.1378839
+    "lat": 40.724530417662834,
+    "lng": -111.89019978665024
   },
   {
     "state": "UT",
@@ -1495,7 +1495,7 @@
   },
   {
     "state": "CA",
-    "city": "Marina del Rey",
+    "city": "Marina Del Rey",
     "location": "Pavilions (Q00512, 4365 Glencoe Ave)",
     "notes": "Pokémon TCG vending",
     "type": "Pokémon TCG",

@@ -5,56 +5,32 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        font-family: sans-serif;
-      }
-      #map {
-        height: calc(100vh - 50px);
-        width: 100vw;
-      }
-    </style>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header
-      style="
-        padding: 10px;
-        background: #f8f8f8;
-        text-align: center;
-        font-size: 18px;
-        font-weight: bold;
-      "
-    >
-      Pokémon Vending Machine Locator
-    </header>
+    <header>Pokémon Vending Machine Locator</header>
+
+    <div id="dropdown-container">
+      <label for="state-select">Jump to a state</label>
+      <select id="state-select">
+        <option value="" selected disabled>-- Select a state --</option>
+        <!-- Other options will be added by JS -->
+      </select>
+
+      <label for="city-select">Jump to a city</label>
+      <select id="city-select" disabled></select>
+    </div>
 
     <div id="map"></div>
-    <button
-      onclick="locateMe()"
-      style="
-        position: absolute;
-        top: 60px;
-        right: 10px;
-        z-index: 999;
-        padding: 8px 12px;
-        background: #007bff;
-        color: white;
-        border: none;
-        border-radius: 6px;
-      "
-    >
-      📍 Locate Me
-    </button>
-    <p
-      style="text-align: center; font-size: 12px; color: #888; margin-top: 10px"
-    >
+    <button id="locate-btn">📍 Locate Me</button>
+
+    <p class="footer">
       This site is not affiliated with or endorsed by Nintendo, Game Freak, or
       The Pokémon Company. All trademarks are the property of their respective
       owners.
     </p>
+
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script src="main.js"></script>
+    <script type="module" src="js/main.js"></script>
   </body>
 </html>
