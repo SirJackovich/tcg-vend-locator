@@ -1,0 +1,11 @@
+# Ignore dependencies
+node_modules/
+package-lock.json
+
+# Ignore all dev-only scripts
+scripts/*.mjs
+
+# Ignore system/editor files
+.DS_Store
+.env
+*.log
