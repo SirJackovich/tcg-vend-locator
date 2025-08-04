@@ -1,14 +1,45 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pokémon Vending Machine Locator</title>
+    <title>Card Machine Map</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="styles.css" />
+    <!-- Standard favicon -->
+    <link rel="icon" href="img/favicon_io/favicon.ico" type="image/x-icon" />
+
+    <!-- PNG fallbacks for modern browsers -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="img/favicon_io/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="img/favicon_io/favicon-16x16.png"
+    />
+
+    <!-- Apple devices -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="img/favicon_io/apple-touch-icon.png"
+    />
+
+    <!-- Web app manifest -->
+    <link rel="manifest" href="img/favicon_io/site.webmanifest" />
   </head>
   <body>
-    <header>Pokémon Vending Machine Locator</header>
+    <header class="site-header">
+      <div class="logo">
+        <img src="img/icon.png" alt="Card Machine Logo" />
+        <h1>Card Machine Map</h1>
+      </div>
+    </header>
 
     <div id="dropdown-container">
       <label for="state-select">Jump to a state</label>
@@ -22,7 +53,7 @@
     </div>
 
     <div id="map"></div>
-    <button id="locate-btn">📍 Locate Me</button>
+    <button id="locate-btn">Locate Me</button>
 
     <p class="footer">
       This site is not affiliated with or endorsed by Nintendo, Game Freak, or

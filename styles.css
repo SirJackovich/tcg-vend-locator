@@ -1,22 +1,58 @@
+:root {
+  --blue: #1f288a;
+  --yellow: #ffcc00;
+  --bg: #121212;
+  --text: #f2f2f2;
+  --surface: #1e1e1e;
+  --border: #333;
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
 }
 
+/* === Header === */
+.site-header {
+  background-color: var(--surface);
+  color: var(--yellow);
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.site-header .logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.site-header .logo img {
+  height: 42px;
+  width: 42px;
+  object-fit: contain;
+  padding: 0;
+  margin: 0;
+}
+
+.site-header .logo h1 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* === Map === */
 #map {
   height: calc(100vh - 50px);
   width: 100vw;
 }
 
-header {
-  padding: 10px;
-  background: #f8f8f8;
-  text-align: center;
-  font-size: 18px;
-  font-weight: bold;
-}
-
+/* === Dropdowns === */
 #dropdown-container {
   display: flex;
   justify-content: center;
@@ -24,17 +60,16 @@ header {
   flex-wrap: wrap;
   gap: 12px;
   padding: 10px;
+  background-color: var(--surface);
 }
 
 select {
   padding: 6px 10px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border);
   border-radius: 6px;
   font-size: 14px;
-  background-color: white;
-  appearance: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
+  background-color: var(--bg);
+  color: var(--text);
   margin: 0 10px;
   min-width: 180px;
 }
@@ -42,31 +77,68 @@ select {
 label {
   font-weight: bold;
   margin: 0 10px;
+  color: var(--text);
 }
 
+/* === Locate Button === */
 #locate-btn {
   position: absolute;
   bottom: 20px;
   right: 20px;
   z-index: 999;
-  padding: 10px 14px;
-  background-color: #007bff;
-  color: white;
+  padding: 8px 12px;
+  font-size: 13px;
+  background-color: var(--blue);
+  color: var(--yellow);
   border: none;
   border-radius: 50px;
-  font-size: 14px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: background-color 0.2s, color 0.2s, transform 0.2s;
 }
 
 #locate-btn:hover {
-  background-color: #0056b3;
+  background-color: var(--yellow);
+  color: var(--blue);
+  transform: scale(1.05);
 }
 
-footer {
+/* === Leaflet Zoom Controls === */
+.leaflet-control-zoom a {
+  background-color: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+/* === Footer === */
+footer,
+.footer {
   text-align: center;
   font-size: 12px;
-  color: #888;
+  color: #aaa;
   margin-top: 10px;
+  background-color: var(--surface);
+  padding: 10px;
+}
+
+/* === Responsive === */
+@media (max-width: 600px) {
+  #dropdown-container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  select {
+    min-width: 100%;
+  }
+
+  .site-header .logo h1 {
+    font-size: 1.4rem;
+  }
+
+  .site-header .logo img {
+    height: 36px;
+    width: 36px;
+  }
 }
